@@ -1,0 +1,20 @@
+{
+    "bot": {
+      "token": ""
+    },
+    "api_id": "",
+    "api_hash": "",
+    "phone_number": "",
+    "user_ids": [
+      "731663791",
+      ""
+    ],
+    "channels": [
+      "",
+      ""  
+    ],
+    "channels_parse": [
+      "",
+      ""  
+    ]
+  }
